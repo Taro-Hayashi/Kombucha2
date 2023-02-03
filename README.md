@@ -1,9 +1,10 @@
 # Kombucha ジョイスティック
+[meishi Trackball Moduleを使う場合はこちら](README_BALL.md)
 - [キット内容](#キット内容)
-- [はんだ付け](#はんだ付け画像を反転する)
+- [はんだ付け](#はんだ付け)
 - [組み立て](#組み立て)
 - [カスタマイズ](#カスタマイズ)
-- [おまけ](#おまけ)
+- [その他](#その他)
 
 ## キット内容
 ![パーツ一覧](img/IMG_4844.jpg)  
@@ -190,10 +191,6 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/remap3.png)  
   
 ## その他
-
-レベル変換基板はソケットを使わずに基板にはんだ付けしてしまっても構いません。  
-コンスルーから4ピンを切り出して使うとOLED用ピンヘッダ、OLED用ピンソケットは使わずに作ることもできます。  
-![](img/IMG_5760.jpg)  
 
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
