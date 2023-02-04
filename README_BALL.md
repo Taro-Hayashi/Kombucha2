@@ -1,5 +1,5 @@
 # Kombucha ジョイスティック
-[meishi Trackball Moduleを使う場合はこちら](README_BALL.md)
+[標準のビルドガイドはこちら](README.md)
 - [キット内容](#キット内容)
 - [はんだ付け](#はんだ付け)
 - [組み立て](#組み立て)
