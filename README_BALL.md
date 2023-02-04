@@ -50,38 +50,4 @@
 |部品名|数||
 |-|-|-|
 |Trackball Module 互換基板キット|1|meishiから切り離さなくてよくなります。|
-|アクリル積層ケース|||
-
-### 必要な工具
-|工具名|
-|-|
-|はんだごて|
-|はんだ|
-|精密ドライバー|
-|ニッパー|
-|エポシキ接着剤|
-
-## はんだ付け
-
-### ボトムプレートの
-
-### 動作テスト 
-
-
-
-## 組み立て
-USBケーブルを抜いてプレートを組付けます。  
-アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
-
-## カスタマイズ
-  
-## その他
-
-ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
-
-プレートのデザインデータ  
-[kombucha_plates.zip](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.31/kombucha_plates.zip)  
-発注先のルールに沿ってデータを修正してください。  
-  
-- BOOTH: https://tarohayashi.booth.pm/items/3252673 
+|アクリル積層ケース|1|取り付け方法|
