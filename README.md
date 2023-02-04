@@ -43,8 +43,8 @@
 |-|-|-|
 |XIAO RP2040|1|[TALP KEYBOARD](https://talpkeyboard.net/items/63534f58f5197322fceb6487)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gM-17044/)|
 |Cherry MX互換キースイッチ|1|[TALP KEYBOARD](https://talpkeyboard.net/?category_id=5f2d0726afaa9d40152b2cec)、[遊舎工房](https://shop.yushakobo.jp/search?sort_by=relevance&q=Cherry+MX&type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.my_fields.switch_type=Clicky&filter.v.m.my_fields.switch_type=Linear&filter.v.m.my_fields.switch_type=Silent+Linear&filter.v.m.my_fields.switch_type=Silent+Tactile&filter.v.m.my_fields.switch_type=Tactile)|
-|Cherry MX互換キーキャップ（1U）|1|各種ショップ|
-|Type-C USB ケーブル|1|各種ショップ、100円均一など|
+|Cherry MX互換キーキャップ（1U）|1|各種キーボードショップ|
+|Type-C USB ケーブル|1|各種キーボードショップ、100円均一など|
 
 ### オプション
 |部品名||
@@ -67,12 +67,10 @@
 ※ビルドガイドの写真はすべて左手用です。右手の場合は適宜読み替えるかトラックボールビルドの画像を見て制作してください。  
 
 ### XIAO RP2040にファームウェアを書き込む  
-
 こちらのファイルをダウンロードしてください。
-
 - uf2
 
-右のBのボタンを押しながらPCに接続するとRPI-RP2というドライブとして認識されます。そちらにダウンロードしたファイルを書き込むとXIAO RP2040をキーボードとして使えるようになります。
+基板上の右のBのボタンを押しながらPCに接続するとRPI-RP2というドライブとして認識されます。そちらにダウンロードしたファイルを書き込むとXIAO RP2040をキーボードとして使えるようになります。
 
 ## はんだ付け
 ### ボトムプレートのはんだ付け
@@ -83,17 +81,16 @@
 
 反対の面にはゴム足を貼ります。
 
-
 ### ジョイスティック基板のはんだ付け
 ジョイスティック基板にジョイスティックをはんだ付けします。  
 
-ジョイスティックが自動で中央に戻らないことがありますが、アクリルプレートを取り付ける前の正常な動作です。
+ジョイスティックが中央に戻らないことがありますが、アクリルプレートを取り付ける前の正常な動作です。
 
 ボトムプレートのピンソケットに5ピンヘッダを立てます。短い方を差しました。  
 
 ジョイスティック基板をスペーサー（細）（長）の上にのせ、スペーサー（太）（長）でボトムプレートに固定します。  
 
-飛び出たピンヘッダをニッパーで切りはんだ付けしましょう。  
+飛び出たピンヘッダをニッパーで切りはんだ付けしましょう（ギリギリまで切りすぎるとうまくはんだ付けできないことがあります）。  
 
 ジョイスティックにキャップを取り付けます。
 
@@ -139,7 +136,7 @@ USBケーブルを接続してジョイスティックと押し込みボタン�
 
 キーキャップをつけて完成です。
 
-
+LEDを消したい時は親指クラスタの奥のキーを押しながらジョイスティックを押し込んでください。
 
 ## カスタマイズ
 標準ではジョイスティックを傾けると方向に合わせてW、A、S、Dのキーが入力されるようになっています。これらを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。
@@ -165,12 +162,12 @@ Bボタンを押す代わりにXIAO RP2040に一番近いキーを押しなが�
 こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
 - joypad.uf2
 
-### テープMOD
+### テープを巻く
 10mmのマスキングテープや革テープで全周をデコレーションすることができます。前面は15mmのテープを巻くこともできます。
 
 
 ## その他
-ファームウェアのフォルダ(0.19.10現在developブランチでのみコンパイル可能です。）
+ファームウェアのフォルダ(RP2040のアナログ対応のため0.19.10現在はdevelopブランチでのみコンパイル可能です。）
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
 
 プレートのデザインデータ  
