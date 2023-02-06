@@ -75,7 +75,7 @@
 
 ### XIAO RP2040にファームウェアを書き込む  
 こちらのファイルをダウンロードしてください。
-- uf2
+- [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_default.uf2)
 
 基板上の右のBのボタンを押しながらPCに接続するとRPI-RP2というドライブとして認識されます。そちらにダウンロードしたファイルを書き込むとXIAO RP2040をキーボードとして使えるようになります。
 
@@ -148,7 +148,7 @@ LEDを消したい時は親指クラスタの奥のキーを押しながらジ�
 ## カスタマイズ
 標準ではジョイスティックを傾けると方向に合わせてW、A、S、Dのキーが入力されるようになっています。これらを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。
 こちらのJSONファイルをダウンロードしてください。
--json
+-[kombucha.json]|(https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha.json)
 
 Google Chrome（Microsoft Edge）を利用して下記webサイトにアクセスするか、VIAのアプリケーションをダウンロードして起動してください。
 - VIA [https://usevia.app](https://usevia.app/#/design)
@@ -168,10 +168,11 @@ LAYOUTSから見た目の左右を変更することができます。
 ### その他の利用方法
 ジョイスティックでマウスカーソルを動かすことも可能で、その場合はこちらのファイルをダウンロードしてファームウェアを書き換えてください。  
 Bボタンを押す代わりにXIAO RP2040に一番近いキーを押しながらUSBケーブルを繋ぐことでもRPI-RP2のドライブを出すことが出来ます。
-- cursor.uf2
+- [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_cursor.uf2)
 
 こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
-- joypad.uf2
+- [tarohayashi_kombucha_stick_joypad.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_joypad.uf2)
+
 
 ### テープを巻く
 10mmのマスキングテープや革テープで全周をデコレーションすることができます。前面は15mmのテープを巻くこともできます。
