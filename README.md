@@ -179,13 +179,8 @@ Bボタンを押す代わりにXIAO RP2040に一番近いキーを押しなが�
 ### テープを巻く
 10mmのマスキングテープや革テープで全周をデコレーションすることができます。前面は15mmのテープを巻くこともできます。
 
-
 ## その他
 ファームウェアのフォルダ(RP2040のアナログ対応のため0.19.10現在はdevelopブランチでのみコンパイル可能です。）
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
-
-プレートのデザインデータ  
-- [kombucha_plates.zip](https://github.com/Taro-Hayashi/Kombucha/releases/download/14.31/kombucha_plates.zip)  
-発注先のルールに沿ってデータを修正してください。  
   
 - BOOTH: https://tarohayashi.booth.pm/items/3252673 
