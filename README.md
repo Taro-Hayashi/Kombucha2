@@ -77,7 +77,9 @@
 こちらのファイルをダウンロードしてください。
 - [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_default.uf2)
 
-基板上の右のBのボタンを押しながらPCに接続するとRPI-RP2というドライブとして認識されます。そちらにダウンロードしたファイルを書き込むとXIAO RP2040をキーボードとして使えるようになります。
+基板上の右のBのボタンを押しながらPCに接続するとRPI-RP2というドライブとして認識されます。
+
+ダウンロードしたファイルを書き込むとXIAO RP2040をキーボードとして使えるようになります。
 
 ## はんだ付け
 ### ボトムプレートのはんだ付け
