@@ -154,8 +154,7 @@ LEDを消したい時は親指クラスタの奥のキーを押しながらジ�
 
 こちらのファームウェアをダウンロードして書き換えます。
 テストファームウェアを書き込んでからはXIAO RP2040に一番近いキーを押しながらUSBケーブルを繋ぐことでRPI-RP2のドライブを出すことが出来ます。
-
-ジョイスティックと押し込みボタンが動作することを確認してください。
+- [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_default.uf2)
 
 標準ではジョイスティックを傾けると方向に合わせてW、A、S、Dのキーが入力されるようになっています。これらを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。
 こちらのJSONファイルをダウンロードしてください。
