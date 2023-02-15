@@ -4,7 +4,7 @@
 - [はんだ付け](#はんだ付け)
 - [組み立て](#組み立て)
 - [カスタマイズ](#カスタマイズ)
-- [meishi Trackball Moduleを使う場合](#meishiTrackballModuleを使う場合)
+- [meishi Trackball Moduleを使う場合](#meishi_Trackball_Moduleを使う場合)
 - [その他](#その他)
 
 ## キット内容
