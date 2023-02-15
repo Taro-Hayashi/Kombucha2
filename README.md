@@ -192,11 +192,11 @@ LAYOUTSから見た目の左右を変更することができます。
 
 ## meishiTrackballModuleを使う
 ###はんだ付け
-meishi Trackball Module互換基板キットを使う場合は袋の番号を確認しながら部品をはんだ付けします。
-LEDはTrackball Moduleと同じように少し内側にはみ出させて取り付けてください。
-ピンヘッダを立てねじを使って基板の位置を決めます。
-はんだ付けをしたらねじを一度はずしてレンズとボールケースを取り付けます。
-ファームウェアはこちらをお使いください。
+meishi Trackball Module互換基板キットを使う場合は袋の番号を確認しながら部品をはんだ付けします。  
+LEDはTrackball Moduleと同じように少し内側にはみ出させて取り付けてください。  
+ピンヘッダを立てねじを使って基板の位置を決めます。  
+はんだ付けをしたらねじを一度はずしてレンズとボールケースを取り付けます。  
+ファームウェアはこちらをお使いください。  
 - [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_ball_via.uf2)
 
 ## その他
