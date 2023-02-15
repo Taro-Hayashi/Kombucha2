@@ -4,7 +4,7 @@
 - [はんだ付け](#はんだ付け)
 - [組み立て](#組み立て)
 - [カスタマイズ](#カスタマイズ)
-- [meishi Trackball Moduleを使う場合](#meishiTrackballModuleを使う場合)
+- [meishi Trackball Moduleを使う](#meishiTrackballModuleを使う)
 - [その他](#その他)
 
 ## キット内容
@@ -190,10 +190,17 @@ LAYOUTSから見た目の左右を変更することができます。
 ### テープを巻く
 10mmのマスキングテープや革テープで全周をデコレーションすることができます。前面は15mmのテープを巻くこともできます。
 
-## meishiTrackballModuleを使う場合
+## meishiTrackballModuleを使う
+###はんだ付け
+meishi Trackball Module互換基板キットを使う場合は袋の番号を確認しながら部品をはんだ付けします。
+LEDはTrackball Moduleと同じように少し内側にはみ出させて取り付けてください。
+ピンヘッダを立てねじを使って基板の位置を決めます。
+はんだ付けをしたらねじを一度はずしてレンズとボールケースを取り付けます。
+ファームウェアはこちらをお使いください。
+- [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_ball_via.uf2)
 
 ## その他
-ファームウェアのフォルダ(RP2040のアナログ対応のため0.19.10現在はdevelopブランチでのみコンパイル可能です。）
+ファームウェアのフォルダ(RP2040のアナログ対応のため現在はdevelopブランチでのみコンパイル可能です。）
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
   
 - BOOTH: https://tarohayashi.booth.pm/items/3252673 
