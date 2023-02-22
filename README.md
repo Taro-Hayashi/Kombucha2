@@ -193,7 +193,7 @@ LAYOUTSから見た目の左右を変更することができます。
 ### はんだ付け
 meishi Trackball Module互換基板キットを使う場合は袋の番号を確認しながら部品をはんだ付けします。使わない場合はmeishi Trackball Moduleを基板から切り離してください。  
 ピンヘッダを立てねじを使って基板の位置を決めます。  
-はんだ付けをしたらねじを一度はずしてレンズとボールケースを取り付けます。  
+はんだ付けをしたらねじを一度はずして、センサーの保護フィルムをはがしてレンズとボールケースを取り付けます。  
 ファームウェアはこちらをお使いください。  
 - [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_ball_via.uf2)
 
