@@ -164,7 +164,7 @@ Google Chrome（Microsoft Edge）を利用して下記webサイトにアクセ�
 - [Web版VIA（Google Chromeでアクセスしてください）](https://usevia.app/#/design)
 - [アプリ版VIA](https://github.com/the-via/releases/releases)
 
-DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります。  
+DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります（アプリ版ではまずShow Design tabをオンにしてください）。  
 ![](img/VIA_load.jpeg)  
 CONFIGUREタブのAuthorize device+からKombuchaを追加してください。
 
