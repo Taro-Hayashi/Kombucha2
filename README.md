@@ -219,8 +219,7 @@ LEDをはんだ付けします。
 - [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_ball_via.uf2)
 
 ### トラックボールの調整
-親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。
-また、その下のキーを押すと上下左右の十字方向と10°の微調整が可能です。
+親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。その下のキーを押すと上下左右の十字方向と10°の微調整が可能です。
 ![](img/IMG_3114E.jpeg)
 
 ## その他
