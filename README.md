@@ -161,9 +161,9 @@ USBケーブルを抜いてください。はんだ付けの作業は通電し�
 LEDを消したい時は親指クラスタ（最下段）の奥のキーを押しながらジョイスティックを押し込んでください。
 
 ## カスタマイズ
-標準ではジョイスティックを傾けると方向に合わせてキーが入力されるようになっています。これらを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。
-こちらのJSONファイルをダウンロードしてください。
--[kombucha.json]|(https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha.json)
+ジョイスティックを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。  
+こちらのJSONファイルをダウンロードしてください。 
+- [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha.json)
 
 Google Chrome（Microsoft Edge）を利用して下記webサイトにアクセスするか、VIAのアプリケーションをダウンロードして起動してください。
 - [Web版VIA（Google Chromeでアクセスしてください）](https://usevia.app/#/design)
@@ -187,10 +187,6 @@ LAYOUTSから見た目の左右を変更することができます。
 
 こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
 - [tarohayashi_kombucha_stick_joypad.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_joypad.uf2)
-
-
-### テープを巻く
-10mmのマスキングテープや革テープで全周をデコレーションすることができます。前面は15mmのテープを巻くこともできます。
 
 ## meishiTrackballModuleを使う
 ### はんだ付け
