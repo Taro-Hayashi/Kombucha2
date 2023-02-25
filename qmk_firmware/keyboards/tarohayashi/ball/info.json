@@ -18,8 +18,8 @@
         "mousekey": true
     },
     "matrix_pins": {
-        "cols": ["GP7", "GP6", "GP29", "GP2", "GP1"],
-        "rows": ["GP7", "GP6", "GP29", "GP2", "GP1"]
+        "cols": ["GP7", "GP6", "GP29", "GP2", "GP1", "GP10", "GP11"],
+        "rows": ["GP7", "GP6", "GP29", "GP2", "GP1", "GP10", "GP11"]
     },
     "diode_direction": "COL2ROW",
     "bootmagic": {

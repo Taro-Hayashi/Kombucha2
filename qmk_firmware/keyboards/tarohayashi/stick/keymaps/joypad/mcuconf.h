@@ -1,5 +1,6 @@
-// Copyright 2018-2022 Nick Brassel (@tzarc)
-// SPDX-License-Identifier: GPL-3.0-or-later
+// Copyright 2021 Hayashi (@w_vwbw)
+// SPDX-License-Identifier: GPL-2.0-or-later
+
 #pragma once
 
 #include_next <mcuconf.h>
