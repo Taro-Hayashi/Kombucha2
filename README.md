@@ -223,7 +223,7 @@ LEDをはんだ付けします。
 ![](img/IMG_3114E.jpg)
 
 ## その他
-ファームウェアのフォルダ(RP2040のアナログ対応のため現在は0.19.10以降のdevelopブランチでのみコンパイル可能です。）
+ファームウェアのフォルダ
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
 
 aki27さんのコードを参考にトラックボール用のファームウェアを書きました。
