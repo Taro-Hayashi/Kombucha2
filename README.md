@@ -194,8 +194,16 @@ meishi Trackball Module互換基板キットを使う場合は袋の番号を確
 ファームウェアはこちらをお使いください。  
 - [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_ball_via.uf2)
 
+### トラックボールの調整
+
+
 ## その他
 ファームウェアのフォルダ(RP2040のアナログ対応のため現在は0.19.10以降のdevelopブランチでのみコンパイル可能です。）
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
-  
+
+aki27さんのコードを参考にトラックボール用のファームウェアを書きました。
+- URL　https://github.com/aki27kbd/qmk_firmware
+- ライセンス https://github.com/aki27kbd/qmk_firmware/blob/master/LICENSE
+
+販売サイト  
 - BOOTH: https://tarohayashi.booth.pm/items/3252673 
