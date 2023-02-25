@@ -222,12 +222,6 @@ LEDをはんだ付けします。
 親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。
 また、その下のキーを押すと上下左右の十字方向と10°の微調整が可能です。
 
-- CPI_I、CPI_D CPIの変更キー
-- ANG_I、ANG_D ボールの角度の変更キー
-これらのキーはVIAではSPECIALタブのanyというキーで設定できます。
-![](img/VIA_any.png)  
-
-
 ## その他
 ファームウェアのフォルダ(RP2040のアナログ対応のため現在は0.19.10以降のdevelopブランチでのみコンパイル可能です。）
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
