@@ -156,14 +156,14 @@ USBケーブルを抜いてください。はんだ付けの作業は通電し�
 
 キーキャップをつけて完成です。
 ![](img/IMG_2994.jpeg) 
-こちらのファームウェアを書き込んでください。Bスイッチを押す代わりに、XIAO RP2040に一番近いキーを押しながらUSBケーブルを繋ぐことでRPI-RP2のドライブを出すことが出来ます。
+こちらのファームウェアを書き込んでください。XIAO RP2040のBのスイッチを押す代わりに、XIAO RP2040に一番近いキーを押しながらUSBケーブルを繋ぐことでRPI-RP2のドライブを出すことが出来ます。
 - [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_default.uf2)
 LEDを消したい時は親指クラスタ（最下段）の奥のキーを押しながらジョイスティックを押し込んでください。
 
 ## カスタマイズ
-標準ではジョイスティックを傾けると方向に合わせてキーが入力されるようになっています。これらを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。
-こちらのJSONファイルをダウンロードしてください。
--[kombucha.json]|(https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha.json)
+ジョイスティックを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。  
+こちらのJSONファイルをダウンロードしてください。 
+- [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha.json)
 
 Google Chrome（Microsoft Edge）を利用して下記webサイトにアクセスするか、VIAのアプリケーションをダウンロードして起動してください。
 - [Web版VIA（Google Chromeでアクセスしてください）](https://usevia.app/#/design)
@@ -188,15 +188,11 @@ LAYOUTSから見た目の左右を変更することができます。
 こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
 - [tarohayashi_kombucha_stick_joypad.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_joypad.uf2)
 
-
-### テープを巻く
-10mmのマスキングテープや革テープで全周をデコレーションすることができます。前面は15mmのテープを巻くこともできます。
-
 ## meishiTrackballModuleを使う
 ### はんだ付け
 一度分解し、ボトムプレートにタクタイルスイッチSMDをはんだ付けします。
 ![](img/IMG_2830.jpeg)  
-ピンヘッダーが無い側の2箇所はスペーサー（細）（長）の代わりにスペーサー（細）（短）をねじ止めします。
+ピンヘッダーが有る側の2箇所はスペーサー（細）（長）、無い側の2箇所はスペーサー（細）（短）をねじ止めします。
 ![](img/IMG_2832.jpg) 
 meishi Trackball Module互換基板キットを使う場合は袋の番号を確認しながら部品をはんだ付けします。使わない場合はmeishi Trackball Moduleを基板から切り離してください。
 ![](img/IMG_2885.jpeg)  
@@ -204,17 +200,17 @@ meishi Trackball Module互換基板キットを使う場合は袋の番号を確
 ![](img/IMG_2886.jpeg)  
 LEDをはんだ付けします。
 ![](img/IMG_2888.jpeg)  
-LEDをはんだ付けします。
+センサーをはんだ付けします。
 ![](img/IMG_2890.jpeg)  
-ジョイスティックの時と同様にピンヘッダを立てねじを使って基板の位置を決めたらはんだ付けします。
+ジョイスティックの時と同様にピンヘッダを立てモジュール付属のねじを使って基板の位置を決めたらはんだ付けします。
 ![](img/IMG_2834.jpeg)  
 はんだ付けをしたらねじを一度はずしてモジュール基板を取り外し、センサーの保護フィルムをはがしてレンズとボールケースを取り付けます。  
 ![](img/IMG_2836.jpg)  
-ピンヘッダーのない側にスペーサー（細）（短）をもジュール付属のねじで止めます。  
+ピンヘッダーのない側にスペーサー（細）（短）をねじで止めます。  
   
 スペーサーの上にスプリングを立てます。
 ![](img/IMG_2839.jpeg)
-モジュール付属のねじでスペーサー（細）（長）側も止めるとボールのクリックができるようになります。
+ねじでスペーサー（細）（長）側も止めるとボールのクリックができるようになります。
 ![](img/IMG_2842.jpeg)
 組み立て直したら完成です。
 ![](img/IMG_3114.jpeg)
@@ -223,11 +219,8 @@ LEDをはんだ付けします。
 - [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_ball_via.uf2)
 
 ### トラックボールの調整
-これらのキーはVIAではSPECIALタブのanyというキーで設定できます。
-|||
-|||
-|||
-|||
+親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。その下のキーを押すと上下左右の十字方向と10°の微調整が可能です。
+![](img/IMG_3114E.jpeg)
 
 ## その他
 ファームウェアのフォルダ(RP2040のアナログ対応のため現在は0.19.10以降のdevelopブランチでのみコンパイル可能です。）
