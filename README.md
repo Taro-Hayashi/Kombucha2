@@ -230,7 +230,7 @@ LEDをはんだ付けします。
 アクリルプレートのデータ
 - https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha_acrylic.zip
 
-DXF, SVG, kicadファイルが入っています。
+DXF、SVG、kicadファイルが入っています。
 
 aki27さんのコードを参考にトラックボール用のファームウェアを書きました。
 - URL　https://github.com/aki27kbd/qmk_firmware
