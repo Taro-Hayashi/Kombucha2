@@ -225,7 +225,7 @@ LEDをはんだ付けします。
 
 ## その他
 ファームウェアのフォルダ
-- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
+- https://github.com/Taro-Hayashi/Kombucha2/tree/main/qmk_firmware/keyboards/tarohayashi/kombucha
 
 aki27さんのコードを参考にトラックボール用のファームウェアを書きました。
 - URL　https://github.com/aki27kbd/qmk_firmware
