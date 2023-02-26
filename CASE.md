@@ -25,12 +25,14 @@ USB部分が開くように重ねます（隙間のあるミドルプレート�
 ## ケースのデータ
 ### 元になるデータ
 - https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha_acrylic_case.zip
+  
 kicadファイル、SVGファイル、DXFファイルが入っています。厚みは3mmです。各種サービスのルールに沿ってテンプレートに並べ替えたり線幅、色などを調節してください。  
 Elecrowさんの少し薄い（2.8mm程度）のアクリル板を前提に設計しているので、国内サービスの精度の高い3mmのアクリルを使用した場合はスペーサーの長さ、使うミドルプレートの枚数等を現物に合わせていただく必要があるかもしれません。
 
 ### Elecrow向けファイル
 - https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha_acrylic_case_elecrow.zip
-こちらのZipファイルで注文すると1ケース分揃います。
+  
+こちらのZipファイルでElecrowさんで注文すると1ケース分揃います。
 280.6x136.6mm、数量5枚、厚みは3mm、お好みの色で発注してください。
 ![](img/elecrow.png)
 何かあった場合は英語でのやりとりになりますのでご注意ください。
