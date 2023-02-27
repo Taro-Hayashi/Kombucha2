@@ -236,7 +236,7 @@ LEDをはんだ付けします。
 ### ファームウェアのフォルダ
 - https://github.com/Taro-Hayashi/Kombucha2/tree/main/qmk_firmware/keyboards/tarohayashi/kombucha
 
-ファームウェアまとめ
+### ファームウェアまとめ
 - テスト用 [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_default.uf2)
 - ボタン [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_stick.uf2)
 - マウスカーソル左手用 [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_cursor_left.uf2)
@@ -245,14 +245,14 @@ LEDをはんだ付けします。
 - ジョイパッド右手用 [tarohayashi_kombucha_stick_joypad_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_right.uf2)
 - トラックボール [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_ball_via.uf2)
 
-アクリルプレートのデータ
+### アクリルプレートのデータ
+DXF、SVG、kicadファイルが入っています。
 - [kombucha_acrylic_case_elecrow.zip](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha_acrylic_case_elecrow.zip)
 
-DXF、SVG、kicadファイルが入っています。
-
+### 謝辞
 aki27さんのコードを参考にトラックボール用のファームウェアを書きました。
 - URL　https://github.com/aki27kbd/qmk_firmware
 - ライセンス https://github.com/aki27kbd/qmk_firmware/blob/master/LICENSE
 
-販売サイト  
+### 販売サイト  
 - BOOTH: https://tarohayashi.booth.pm/items/3252673 
