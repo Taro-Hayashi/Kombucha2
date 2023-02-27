@@ -164,7 +164,7 @@ LEDを消したい時は親指クラスタ（最下段）の奥のキーを押�
 ## カスタマイズ
 ジョイスティックを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。  
 こちらのJSONファイルをダウンロードしてください。 
-- [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha.json)
+- [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha.json)
 
 Google Chrome（Microsoft Edge）を利用して下記webサイトにアクセスするか、VIAのアプリケーションをダウンロードして起動してください。
 - [Web版VIA（Google Chromeでアクセスしてください）](https://usevia.app/#/design)
