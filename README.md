@@ -237,7 +237,7 @@ LEDをはんだ付けします。
 - https://github.com/Taro-Hayashi/Kombucha2/tree/main/qmk_firmware/keyboards/tarohayashi/kombucha
 
 アクリルプレートのデータ
-- https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha_acrylic.zip
+- [kombucha_acrylic_case_elecrow.zip](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha_acrylic_case_elecrow.zip)
 
 DXF、SVG、kicadファイルが入っています。
 
