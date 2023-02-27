@@ -191,6 +191,13 @@ LAYOUTSから見た目の左右を変更することができます。
 - 左手用 [tarohayashi_kombucha_stick_joypad_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_left.uf2)
 - 右手用 [tarohayashi_kombucha_stick_joypad_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_right.uf2)
 
+#### ジョイスティックの補正
+スタートメニューにJOY.CPLと打ち込むとゲームパッドの調整ができます。
+![](img/VIA_layout.jpeg)  
+ウィザードに従ってください。
+![](img/VIA_layout.jpeg)  
+それでも上手く動かない場合はゲームパッドとしてではなく通常のファームウェアにカーソルキーやWASDを割り当ててお使いください。
+
 ## meishiTrackballModuleを使う
 ### はんだ付け
 一度分解し、ボトムプレートにタクタイルスイッチSMDをはんだ付けします。
