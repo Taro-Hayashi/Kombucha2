@@ -162,7 +162,7 @@ LEDを消したい時は親指クラスタ（最下段）の奥のキーを押�
 ## カスタマイズ
 ジョイスティックを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。  
 こちらのJSONファイルをダウンロードしてください。 
-- [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha.json)
+- [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha.json)
 
 Google Chrome（Microsoft Edge）を利用して下記webサイトにアクセスするか、VIAのアプリケーションをダウンロードして起動してください。
 - [Web版VIA（Google Chromeでアクセスしてください）](https://usevia.app/#/design)
@@ -224,7 +224,7 @@ LEDをはんだ付けします。
 ![](img/IMG_3106.jpeg)
 
 ファームウェアはこちらをお使いください。  
-- [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_ball_via.uf2)
+- [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_ball_via.uf2)
 
 ### トラックボールの調整
 親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。その下のキーを押すとマウスカーソルの上下左右の十字方向と10°の微調整が可能です。
@@ -235,7 +235,7 @@ LEDをはんだ付けします。
 - https://github.com/Taro-Hayashi/Kombucha2/tree/main/qmk_firmware/keyboards/tarohayashi/kombucha
 
 アクリルプレートのデータ
-- https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha_acrylic.zip
+- [kombucha_acrylic.zip](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha_acrylic.zip)
 
 DXF、SVG、kicadファイルが入っています。  
   
