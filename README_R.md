@@ -155,7 +155,7 @@ USBケーブルを抜いてください。はんだ付けの作業は通電し�
 キーキャップをつけて完成です。
 ![](img/IMG_3002.jpeg) 
 こちらのファームウェアを書き込んでください。XIAO RP2040のBのスイッチを押す代わりに、XIAO RP2040に一番近いキーを押しながらUSBケーブルを繋ぐことでRPI-RP2のドライブを出すことが出来ます。
-- [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_default.uf2)
+- [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_stick.uf2)
   
 LEDを消したい時は親指クラスタ（最下段）の奥のキーを押しながらジョイスティックを押し込んでください。
 
@@ -188,6 +188,14 @@ LAYOUTSから見た目の左右を変更することができます。
 こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
 - 左手用 [tarohayashi_kombucha_stick_joypad_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_left.uf2)
 - 右手用 [tarohayashi_kombucha_stick_joypad_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_right.uf2)
+
+#### ジョイスティックの補正
+スタートメニューにJOY.CPLと打ち込むとスティックの補正ができます。
+![](img/joy1.png)  
+プロパティから調整を選びウィザードに従ってください。
+![](img/joy2png.png)  
+それでも上手く動かない場合はゲームパッドとしてではなく通常のファームウェアにカーソルキーやWASDを割り当ててお使いください。
+
 ## meishiTrackballModuleを使う
 ### はんだ付け
 一度分解し、ボトムプレートにタクタイルスイッチSMDをはんだ付けします。
