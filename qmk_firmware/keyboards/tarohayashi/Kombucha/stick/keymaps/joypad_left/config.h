@@ -3,8 +3,6 @@
 
 #pragma once
 
-//#include "config_common.h"
-
 #define JOYSTICK_BUTTON_COUNT 10
 #define JOYSTICK_AXIS_COUNT 2
 #define JOYSTICK_AXIS_RESOLUTION 10

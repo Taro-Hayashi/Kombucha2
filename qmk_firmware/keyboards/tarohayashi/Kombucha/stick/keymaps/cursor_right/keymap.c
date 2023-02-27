@@ -15,14 +15,14 @@ enum layer_number {
 // LAYOUT SETTINGS
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [BASE] = LAYOUT(
-        JS_0, JS_1,
-        JS_2, JS_3, JS_4,
-        JS_5, JS_6, JS_7,
-        JS_8, JS_9, MO(LIGHT),
+        KC_A, KC_B,
+        KC_C, KC_D, KC_E,
+        KC_F, KC_G, KC_H,
+        KC_I, KC_J, LT(LIGHT, KC_K),
 
-            XXXXXXX,
-        XXXXXXX, XXXXXXX,
-            XXXXXXX
+            KC_W,
+        KC_A,   KC_D,
+            KC_S
     ),
   [LOWER] = LAYOUT(
         XXXXXXX, XXXXXXX,
@@ -48,22 +48,16 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         RGB_TOG, XXXXXXX,
         RGB_SAI, RGB_VAI, RGB_SPI,
         RGB_SAD, RGB_VAD, RGB_SPD,
-        RGB_MOD, RGB_RMOD, MO(LIGHT),
+        RGB_MOD, RGB_RMOD, LT(LIGHT, KC_K),
 
             XXXXXXX,
         XXXXXXX, XXXXXXX,
             XXXXXXX
     )
 };
-
 const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][2] = {
     [BASE] =   { ENCODER_CCW_CW(KC_MS_WH_UP, KC_MS_WH_DOWN)},
     [LOWER] =  { ENCODER_CCW_CW(KC_MS_WH_UP, KC_MS_WH_DOWN)},
     [UPPER] =  { ENCODER_CCW_CW(KC_MS_WH_UP, KC_MS_WH_DOWN)},
     [LIGHT] = { ENCODER_CCW_CW(RGB_HUI, RGB_HUD)},
-};
-
-joystick_config_t joystick_axes[JOYSTICK_AXIS_COUNT] = {
-    JOYSTICK_AXIS_IN(GP27, 512, 767, 1023),
-    JOYSTICK_AXIS_IN(GP28, 512, 767, 1023),
 };
