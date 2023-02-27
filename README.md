@@ -1,4 +1,4 @@
-# Kombucha ジョイスティック ビルドガイド 左手向け（[右手向け](README_R.md)）
+# Kombucha ジョイスティック 左手向けビルドガイド（[右手向け](README_R.md)）
 - [キット内容](#キット内容)
 - [準備](#準備)
 - [はんだ付け](#はんだ付け)
@@ -49,7 +49,7 @@
 ### オプション
 |部品名||
 |-|-|
-|アクリル積層ケース|[取り付け方法](case.md)|
+|アクリル積層ケース|[ケースデータと取り付け方法](CASE.md)|
  
 ### 必要な工具
 |工具名|
@@ -74,7 +74,7 @@
 
 ### XIAO RP2040にテストファームウェアを書き込む  
 こちらのファイルをダウンロードしてください。
-- [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_default.uf2)
+- [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_default.uf2)
 
 基板上の右のBのボタンを押しながらPCに接続するとRPI-RP2というドライブとして認識されます。
 ![](img/IMG_2585.jpg) 
@@ -131,7 +131,7 @@ USBケーブルを抜いてください。はんだ付けの作業は通電し�
 スイッチソケットをはんだ付けします。裏表に注意してください。
 ![](img/IMG_2636.jpeg) 
 
-メインボードにホイールエンコーダーとタクタイルスイッチをはんだ付けします。表裏に注意してください。
+メインボードにホイールエンコーダーとタクタイルスイッチ（足が下に伸びている方）をはんだ付けします。表裏に注意してください。
 ![](img/IMG_2640.jpeg) 
 
 ボトムプレートに7ピンヘッダを差し込みます。
@@ -157,7 +157,7 @@ USBケーブルを抜いてください。はんだ付けの作業は通電し�
 キーキャップをつけて完成です。
 ![](img/IMG_2994.jpeg) 
 こちらのファームウェアを書き込んでください。XIAO RP2040のBのスイッチを押す代わりに、XIAO RP2040に一番近いキーを押しながらUSBケーブルを繋ぐことでRPI-RP2のドライブを出すことが出来ます。
-- [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_default.uf2)
+- [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_default.uf2)
   
 LEDを消したい時は親指クラスタ（最下段）の奥のキーを押しながらジョイスティックを押し込んでください。
 
@@ -184,10 +184,12 @@ LAYOUTSから見た目の左右を変更することができます。
 
 ### その他の利用方法
 ジョイスティックでマウスカーソルを動かすことも可能で、その場合はこちらのファイルをダウンロードしてファームウェアを書き換えてください。 
-- [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_cursor.uf2)
+- 左手用 [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_cursor_left.uf2)
+- 右手用 [tarohayashi_kombucha_stick_cursor_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_cursor_right.uf2)
 
 こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
-- [tarohayashi_kombucha_stick_joypad.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_stick_joypad.uf2)
+- 左手用 [tarohayashi_kombucha_stick_joypad_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_left.uf2)
+- 右手用 [tarohayashi_kombucha_stick_joypad_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_right.uf2)
 
 ## meishiTrackballModuleを使う
 ### はんだ付け
@@ -217,7 +219,7 @@ LEDをはんだ付けします。
 ![](img/IMG_3114.jpeg)
 
 ファームウェアはこちらをお使いください。  
-- [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/tarohayashi_kombucha_ball_via.uf2)
+- [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_ball_via.uf2)
 
 ### トラックボールの調整
 親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。その下のキーを押すとマウスカーソルの上下左右の十字方向と10°の微調整が可能です。
@@ -225,7 +227,12 @@ LEDをはんだ付けします。
 
 ## その他
 ファームウェアのフォルダ
-- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
+- https://github.com/Taro-Hayashi/Kombucha2/tree/main/qmk_firmware/keyboards/tarohayashi/kombucha
+
+アクリルプレートのデータ
+- https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.0/kombucha_acrylic.zip
+
+DXF、SVG、kicadファイルが入っています。
 
 aki27さんのコードを参考にトラックボール用のファームウェアを書きました。
 - URL　https://github.com/aki27kbd/qmk_firmware
