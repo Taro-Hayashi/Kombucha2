@@ -4,7 +4,7 @@
 - [はんだ付け](#はんだ付け)
 - [組み立て](#組み立て)
 - [カスタマイズ](#カスタマイズ)
-- [meishi Trackball Moduleを使う](#meishiTrackballModuleを使う)
+- [meishi Trackball Moduleを使う](#meishi-Trackball-Moduleを使う)
 - [その他](#その他)
 
 ## キット内容
@@ -198,7 +198,7 @@ LAYOUTSから見た目の左右を変更することができます。
 ![](img/joy2png.png)    
 それでも上手く動かない場合はゲームパッドとしてではなく通常のファームウェアにカーソルキーやWASDを割り当ててお使いください。  
 
-## meishiTrackballModuleを使う
+## meishi Trackball Moduleを使う
 ### はんだ付け
 一度分解し、ボトムプレートにタクタイルスイッチSMDをはんだ付けします。
 ![](img/IMG_2830.jpeg)  
