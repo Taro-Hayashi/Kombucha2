@@ -230,18 +230,29 @@ LEDをはんだ付けします。
 親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。その下のキーを押すとマウスカーソルの上下左右の十字方向と10°の微調整が可能です。
 ![](img/IMG_3106E.jpg)
 
+
 ## その他
-ファームウェアのフォルダ
+### ファームウェアのフォルダ
 - https://github.com/Taro-Hayashi/Kombucha2/tree/main/qmk_firmware/keyboards/tarohayashi/kombucha
 
-アクリルプレートのデータ
-- [kombucha_acrylic.zip](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha_acrylic.zip)
+### ファームウェアまとめ
+- テスト用 [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_default.uf2)
+- スティックにキー割り当て [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_stick.uf2)
+- マウスカーソル左手用 [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_cursor_left.uf2)
+- マウスカーソル右手用 [tarohayashi_kombucha_stick_cursor_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_cursor_right.uf2)
+- ジョイパッド左手用 [tarohayashi_kombucha_stick_joypad_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_left.uf2)
+- ジョイパッド右手用 [tarohayashi_kombucha_stick_joypad_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_right.uf2)
+- トラックボール [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_ball_via.uf2)
 
-DXF、SVG、kicadファイルが入っています。  
-  
+### アクリルプレートのデータ
+DXF、SVG、kicadファイルが入っています。
+- [kombucha_acrylic_case_elecrow.zip](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha_acrylic_case_elecrow.zip)
+
+### 謝辞
 aki27さんのコードを参考にトラックボール用のファームウェアを書きました。
 - URL　https://github.com/aki27kbd/qmk_firmware
 - ライセンス https://github.com/aki27kbd/qmk_firmware/blob/master/LICENSE
 
-販売サイト  
+### 販売サイト  
 - BOOTH: https://tarohayashi.booth.pm/items/3252673 
+
