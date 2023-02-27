@@ -192,11 +192,11 @@ LAYOUTSから見た目の左右を変更することができます。
 - 右手用 [tarohayashi_kombucha_stick_joypad_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_right.uf2)
 
 #### ジョイスティックの補正
-スタートメニューにJOY.CPLと打ち込むとスティックの補正ができます。  
+WindowsではスタートメニューにJOY.CPLと打ち込むとスティックの補正ができます。  
 ![](img/joy1.png)   
 プロパティから調整を選びウィザードに従ってください。  
 ![](img/joy2png.png)    
-それでも上手く動かない場合はゲームパッドとしてではなく通常のファームウェアにカーソルキーやWASDを割り当ててお使いください。  
+上手く動かない場合はゲームパッドとしてではなく通常のファームウェアにカーソルキーやWASDを割り当ててお使いください。  
 
 ## meishi Trackball Moduleを使う
 ### はんだ付け
