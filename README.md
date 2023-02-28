@@ -159,10 +159,11 @@ USBケーブルを抜いてください。はんだ付けの作業は通電し�
 こちらのファームウェアを書き込んでください。XIAO RP2040のBのスイッチを押す代わりに、XIAO RP2040に一番近いキーを押しながらUSBケーブルを繋ぐことでRPI-RP2のドライブを出すことが出来ます。  
 - [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_stick.uf2)
   
+
+## カスタマイズ
 LEDを消したい時は親指クラスタ（最下段）の奥のキーを押しながらジョイスティックを押し込んでください。  
 ![](img/IMG_2994E.jpg) 
 
-## カスタマイズ
 ジョイスティックを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。  
 こちらのJSONファイルをダウンロードしてください。 
 - [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha.json)
