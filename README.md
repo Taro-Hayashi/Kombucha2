@@ -233,7 +233,7 @@ LEDをはんだ付けします。
 ![](img/IMG_3114E.jpg)
 
 ## その他
-### ファームウェアのフォルダ
+### ファームウェアのフォルダ（QMK 0.20.0以降）
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
 
 ### ファームウェアまとめ
