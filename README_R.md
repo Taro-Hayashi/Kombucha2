@@ -160,6 +160,7 @@ USBケーブルを抜いてください。はんだ付けの作業は通電し�
 ## カスタマイズ
 LEDを消したい時は親指クラスタ（最下段）の奥のキーを押しながらジョイスティックを押し込んでください。  
 ![](img/IMG_3002E.jpg) 
+  
 ジョイスティックを含めた全てのキーはVIAというWebサイト（もしくはアプリケーション）で好きなものに変更することができます。  
 こちらのJSONファイルをダウンロードしてください。 
 - [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha.json)
