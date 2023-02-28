@@ -193,6 +193,7 @@ LAYOUTSから見た目の左右を変更することができます。
 
 ジョイスティックを傾けない時の軸ズレ、軸ブレが気になる場合はこちらのファームウェアをお試しください。
 - [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/tarohayashi_kombucha_stick_joypad_fix.uf2)
+  
 LEDレイヤーのホイールクリックでジョイスティックの方向を変更できます。
 
 #### ジョイスティックの補正
