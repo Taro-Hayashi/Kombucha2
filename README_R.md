@@ -1,4 +1,5 @@
 # Kombucha ジョイスティック 右手向けビルドガイド（[左手向け](README.md)）
+※3月2日23時ごろにWindowsでの動作を安定させるようファームウェアをアップデートしました。この変更でVIA用のJSONが変更になったため、更新をした場合はそちらも再ダウンロードをお願いいたします。
 - [キット内容](#キット内容)
 - [準備](#準備)
 - [はんだ付け](#はんだ付け)
@@ -243,6 +244,7 @@ LEDをはんだ付けします。
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
 
 ### ファームウェアまとめ
+※3月2日23時ごろにWindowsでの動作を安定させるようファームウェアをアップデートしました。この変更でVIA用のJSONが変更になったため、更新をした場合はそちらも再ダウンロードをお願いいたします。
 - テスト用 [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_default.uf2)
 - スティックにキー割り当て [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_stick.uf2)
 - マウスカーソル左手用 [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_cursor_left.uf2)
