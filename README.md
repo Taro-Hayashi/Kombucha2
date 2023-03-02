@@ -1,5 +1,5 @@
 # Kombucha ジョイスティック 左手向けビルドガイド（[右手向け](README_R.md)）
-※3月2日23時ごろにWindowsでの動作を安定させるようファームウェアをアップデートしました。この変更でVIA用のJSONが変更になったため、更新をした場合は再ダウンロードをお願いいたします。
+※3月2日23時ごろにWindowsでの動作を安定させるようファームウェアをアップデートしました。この変更でVIA用のJSONも変更になったため、更新をした場合は再ダウンロードをお願いいたします。
 - [キット内容](#キット内容)
 - [準備](#準備)
 - [はんだ付け](#はんだ付け)
@@ -253,6 +253,8 @@ LEDをはんだ付けします。
 - ジョイパッド右手用 [tarohayashi_kombucha_stick_joypad_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_joypad_right.uf2)
 - ジョイパッド軸補正[tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_joypad_fix.uf2)
 - トラックボール [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_ball_via.uf2)
+
+※3月2日23時ごろにWindowsでの動作を安定させるようファームウェアをアップデートしました。この変更でVIA用のJSONが変更になったため、更新をした場合は再ダウンロードをお願いいたします。
 
 ### VIA用JSON
 - [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/kombucha.json)
