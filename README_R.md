@@ -259,7 +259,7 @@ LEDをはんだ付けします。
 
 ### アクリルプレートのデータ
 DXF、SVG、kicadファイルが入っています。
-- [kombucha_acrylic_case_elecrow.zip](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha_acrylic_case_elecrow.zip)
+- [kombucha_acrylic.zip](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha_acrylic.zip)
 
 ### 謝辞
 aki27さんのコードを参考にトラックボール用のファームウェアを書きました。  
