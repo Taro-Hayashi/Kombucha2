@@ -33,7 +33,7 @@ Elecrowさんの少し薄い（2.8mm程度）のアクリル板を前提に設�
 - [kombucha_acrylic_case_elecrow.zip](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.19.12%2Fdevelop/kombucha_acrylic_case_elecrow.zip)
   
 こちらのZipファイルでElecrowさんで注文すると1ケース分揃います。
-280.6x136.6mm、数量5枚、厚みは3mm、お好みの色で発注してください。
+287.3x139.4mm、数量5枚、厚みは3mm、お好みの色で発注してください。
 ![](img/elecrow2.png)
 何かあった場合は英語でのやりとりになりますのでご注意ください。
 
