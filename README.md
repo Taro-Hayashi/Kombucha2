@@ -244,7 +244,6 @@ LEDをはんだ付けします。
 
 ### ファームウェアまとめ
 
-※3月2日23時ごろにWindowsでの動作を安定させるようファームウェアをアップデートしました。VIA用のJSONにも変更があるため、更新をした場合はそちらも再ダウンロードをお願いいたします。
 - テスト用 [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_default.uf2)
 - スティックにキー割り当て [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_stick.uf2)
 - マウスカーソル左手用 [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_cursor_left.uf2)
