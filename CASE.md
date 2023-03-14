@@ -22,7 +22,7 @@ USB部分が開くように重ねます（隙間のあるミドルプレート�
 ゴム足を貼ったら完成です。
 ![](img/IMG_2251.jpeg)
 
-## ケースのデータ
+## ケースのデータ（2023/3/14 トラックボールのカバーが入っていなかったのを修正しました）
 ### 元になるデータ
 - [kombucha_acrylic_case.zip](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/kombucha_acrylic_case.zip)
   
