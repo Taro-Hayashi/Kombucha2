@@ -49,6 +49,7 @@
 ### オプション
 |部品名||
 |-|-|
+|SMDタイプ3.5mmピンソケット|[Type-2 5p & 7p](https://ja.aliexpress.com/item/1005002553655951.html)|
 |アクリル積層ケース|[ケースデータと取り付け方法](CASE.md)|
 |meishi Trackball Module互換基盤|[取り付け方法](mTM.md)（販売を終了しました）|
  
