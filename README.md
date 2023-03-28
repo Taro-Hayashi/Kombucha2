@@ -50,7 +50,7 @@
 |部品名||
 |-|-|
 |アクリル積層ケース|[ケースデータと取り付け方法](CASE.md)|
-|meishi Trackball Module互換基盤|[取り付け方法](mTM.md)|
+|meishi Trackball Module互換基盤|[取り付け方法](mTM.md)（販売を終了しました）|
  
 ### 必要な工具
 |工具名|
