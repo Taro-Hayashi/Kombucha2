@@ -193,7 +193,7 @@ LAYOUTSから見た目の左右を変更することができます。
 
 ジョイスティックを傾けない時の軸ズレ、軸ブレが気になる場合はこちらのファームウェアをお試しください。  
 こちらはLEDレイヤーのホイールクリックでジョイスティックの方向を変更できます。  
-- [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_joypad_fix.uf2)
+- [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.6/tarohayashi_kombucha_stick_joypad_fix.uf2)
 
 #### ジョイスティックの補正
 WindowsではスタートメニューにJOY.CPLと打ち込むとスティックの補正ができます。  
@@ -225,7 +225,7 @@ meishi Trackball Moduleを基板から切り離してください。
 ![](img/IMG_3106.jpeg)
 
 ファームウェアはこちらをお使いください。  
-- [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_ball_via.uf2)
+- [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.6/tarohayashi_kombucha_ball_via.uf2)
 
 ### トラックボールの調整
 親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。その下のキーを押すとマウスカーソルの上下左右の十字方向と10°の微調整が可能です。  
