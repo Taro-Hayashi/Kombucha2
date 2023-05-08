@@ -187,12 +187,8 @@ LAYOUTSから見た目の左右を変更することができます。
 - 左手用 [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_cursor_left.uf2)
 - 右手用 [tarohayashi_kombucha_stick_cursor_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_cursor_right.uf2)
 
-こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。  
-- 左手用 [tarohayashi_kombucha_stick_joypad_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_joypad_left.uf2)
-- 右手用 [tarohayashi_kombucha_stick_joypad_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_joypad_right.uf2)
-
-ジョイスティックを傾けない時の軸ズレ、軸ブレが気になる場合はこちらのファームウェアをお試しください。  
-こちらはLEDレイヤーのホイールクリックでジョイスティックの方向を変更できます。  
+認識が不安定ですが、こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
+LEDレイヤーのホイールクリックでジョイスティックの方向を変更できます。
 - [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.6/tarohayashi_kombucha_stick_joypad_fix.uf2)
 
 #### ジョイスティックの補正
@@ -237,15 +233,15 @@ meishi Trackball Moduleを基板から切り離してください。
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
 
 ### ファームウェアまとめ
-※4/12 チャタリングを減らしました
+※5/9  
+tarohayashi_kombucha_sitck_joypad_fix.uf2:スティックの方向の設定が保存されるようにしました  
+tarohayashi_kombucha_ball_via.uf2:カーソルの方向、速度の設定が保存されるようにしました  
 - テスト用 [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_default.uf2)
 - スティックにキー割り当て [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.4/tarohayashi_kombucha_stick_stick.uf2)
 - マウスカーソル左手用 [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_cursor_left.uf2)
 - マウスカーソル右手用 [tarohayashi_kombucha_stick_cursor_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_cursor_right.uf2)
-- ジョイパッド左手用 [tarohayashi_kombucha_stick_joypad_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_joypad_left.uf2)
-- ジョイパッド右手用 [tarohayashi_kombucha_stick_joypad_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_joypad_right.uf2)
-- ジョイパッド軸補正 [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_joypad_fix.uf2)
-- トラックボール [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_ball_via.uf2)
+- ジョイパッド [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.6/tarohayashi_kombucha_stick_joypad_fix.uf2)
+- トラックボール [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.6/tarohayashi_kombucha_ball_via.uf2)
 
 ### VIA用JSON
 - [kombucha.json](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/kombucha.json)
