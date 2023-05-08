@@ -241,7 +241,7 @@ tarohayashi_kombucha_ball_via.uf2:カーソルの方向、速度の設定が保�
 - スティックにキー割り当て [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.4/tarohayashi_kombucha_stick_stick.uf2)
 - マウスカーソル左手用 [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_cursor_left.uf2)
 - マウスカーソル右手用 [tarohayashi_kombucha_stick_cursor_right.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_cursor_right.uf2)
-- ジョイパッド軸補正[tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.6/tarohayashi_kombucha_stick_joypad_fix.uf2)
+- ジョイパッド[tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.6/tarohayashi_kombucha_stick_joypad_fix.uf2)
 - トラックボール [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.6/tarohayashi_kombucha_ball_via.uf2)
 
 ### VIA用JSON
