@@ -239,9 +239,9 @@ meishi Trackball Moduleを基板から切り離してください。
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
 
 ### ファームウェアまとめ
-※5/9
-tarohayashi_kombucha_sitck_joypad_fix.uf2:スティックの方向の設定が保存されるようにしました
-tarohayashi_kombucha_ball_via.uf2:カーソルの方向、速度の設定が保存されるようにしました。
+※5/9. 
+tarohayashi_kombucha_sitck_joypad_fix.uf2:スティックの方向の設定が保存されるようにしました. 
+tarohayashi_kombucha_ball_via.uf2:カーソルの方向、速度の設定が保存されるようにしました。  
 - テスト用 [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_default.uf2)
 - スティックにキー割り当て [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.4/tarohayashi_kombucha_stick_stick.uf2)
 - マウスカーソル左手用 [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.0/tarohayashi_kombucha_stick_cursor_left.uf2)
