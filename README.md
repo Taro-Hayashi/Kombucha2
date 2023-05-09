@@ -190,6 +190,9 @@ LAYOUTSから見た目の左右を変更することができます。
 
 認識が不安定ですが、こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。  
 - [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_joypad.uf2)
+
+親指クラスタの真ん中のキーを長押しするとカーソル/ジョイパッドの方向を変更できます。
+![](img/IMG_29942.jpg) 
   
 #### ジョイスティックの補正
 WindowsではスタートメニューにJOY.CPLと打ち込むとスティックの補正ができます。  
