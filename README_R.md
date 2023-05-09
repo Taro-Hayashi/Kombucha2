@@ -230,7 +230,7 @@ meishi Trackball Moduleを基板から切り離してください。
 
 
 ## その他
-### ファームウェアのフォルダ（QMK 0.20.0以降）
+### ファームウェアのフォルダ
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
 
 ### ファームウェアまとめ
