@@ -45,12 +45,6 @@
 |Cherry MX互換キースイッチ|1|[TALP KEYBOARD](https://talpkeyboard.net/?category_id=5f2d0726afaa9d40152b2cec)、[遊舎工房](https://shop.yushakobo.jp/search?sort_by=relevance&q=Cherry+MX&type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&filter.v.price.gte=&filter.v.price.lte=&filter.v.m.my_fields.switch_type=Clicky&filter.v.m.my_fields.switch_type=Linear&filter.v.m.my_fields.switch_type=Silent+Linear&filter.v.m.my_fields.switch_type=Silent+Tactile&filter.v.m.my_fields.switch_type=Tactile)|
 |Cherry MX互換キーキャップ（1U）|1|[TALP KEYBOARD](https://stores.jp/search?q=チェリーMX&store=talpkeyboard)、[遊舎工房](https://shop.yushakobo.jp/collections/keycaps?sort_by=best-selling&filter.v.availability=1&filter.v.m.my_fields.keycaps_profile=ASA+Profile&filter.v.m.my_fields.keycaps_profile=ASA-Low+Profile&filter.v.m.my_fields.keycaps_profile=CXA+Profile&filter.v.m.my_fields.keycaps_profile=Cherry+Profile&filter.v.m.my_fields.keycaps_profile=DCS+Profile&filter.v.m.my_fields.keycaps_profile=DSA+Profile&filter.v.m.my_fields.keycaps_profile=JDA+Profile&filter.v.m.my_fields.keycaps_profile=KAT+Profile&filter.v.m.my_fields.keycaps_profile=MA+Profile&filter.v.m.my_fields.keycaps_profile=MDA+Profile&filter.v.m.my_fields.keycaps_profile=NP+Profile&filter.v.m.my_fields.keycaps_profile=OEM+Profile&filter.v.m.my_fields.keycaps_profile=OSA+Profile&filter.v.m.my_fields.keycaps_profile=PG+Profile&filter.v.m.my_fields.keycaps_profile=SA+Profile&filter.v.m.my_fields.keycaps_profile=SAL+Profile&filter.v.m.my_fields.keycaps_profile=Tai-Hao+Cubic+Profile&filter.v.m.my_fields.keycaps_profile=XDA+Profile&filter.v.m.my_fields.keycaps_profile=特殊&filter.v.price.gte=&filter.v.price.lte=)|
 |Type-C USB ケーブル|1|[遊舎工房](https://shop.yushakobo.jp/products/usb_type_a_to_c_cable?_pos=3&_sid=d2e0de26b&_ss=r)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gC-13563/)、100円均一など|
-
-### オプション
-|部品名||
-|-|-|
-|SMDタイプ3.5mmピンソケット|[Type-2 5p & 7p](https://ja.aliexpress.com/item/1005002553655951.html)|
-|アクリル積層ケース|[ケースデータと取り付け方法](CASE.md)|
  
 ### 必要な工具
 |工具名|
