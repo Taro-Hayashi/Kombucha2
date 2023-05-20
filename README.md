@@ -67,6 +67,10 @@
 ![](img/IMG_2588.jpg) 
 どちらの面にどの部品を実装するかが基板に書いてあるので参考にしてください。   
 
+基板には初期型と後期型が存在し、2023年5月分の在庫では混在しています（今後は後期型に統一されます）。  
+後期型の場合基板に書いてありますのでご確認ください。作り方が少し変わり、使用するファームウェアが一部異なります。  
+![](img/IMG_4173.jpg) 
+
 ### XIAO RP2040にテストファームウェアを書き込む  
 こちらのファイルをダウンロードしてください。  
 - [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_default.uf2)
