@@ -158,6 +158,7 @@ USBケーブルを抜いてください。はんだ付けの作業は通電し�
 ![](img/IMG_2994.jpeg) 
 こちらのファームウェアを書き込んでください。XIAO RP2040のBのスイッチを押す代わりに、XIAO RP2040に一番近いキーを押しながらUSBケーブルを繋ぐことでRPI-RP2のドライブを出すことが出来ます。  
 - [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_stick.uf2)
+- 後期型向け [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.8/tarohayashi_kombucha_stick_stick.uf2)
   
 
 ## カスタマイズ
@@ -187,6 +188,7 @@ LAYOUTSから見た目の左右を変更することができます。
 ### その他の利用方法
 ジョイスティックでマウスカーソルを動かすことも可能で、その場合はこちらのファイルをダウンロードしてファームウェアを書き換えてください。 
 - [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
+- 後期型向け [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
 
 認識が不安定ですが、こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。  
 - [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_joypad.uf2)
