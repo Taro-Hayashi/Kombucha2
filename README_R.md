@@ -67,6 +67,10 @@
 ![](img/IMG_2588.jpg) 
 どちらの面にどの部品を実装するかが基板に書いてあるので参考にしてください。   
 
+基板には初期型と後期型が存在し、2023年5月分の在庫では混在しています（今後は後期型に統一されます）。  
+後期型の場合基板に書いてありますのでご確認ください。作り方が少し変わり、使用するファームウェアが一部異なります。  
+![](img/IMG_4173.jpeg) 
+
 ### XIAO RP2040にテストファームウェアを書き込む  
 こちらのファイルをダウンロードしてください。  
 - [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_default.uf2)
@@ -78,7 +82,7 @@
 ## はんだ付け
 ### ボトムプレートのはんだ付け
 左右を確認してボトムプレートにピンソケット2つをはんだ付けします。  
-![](img/IMG_2845.jpeg) 
+![](img/IMG_4152.jpeg) 
 位置決めが難しい場合や使っているうちに剥がれた場合などはDIPタイプのピンソケットも使用することができます。  
 
 ボトムプレートのピンソケットと同じ面にスペーサー（太）（短）をねじ（短）で止めます。黄丸の４箇所にはスペーサー（細）（長）を使います。  
@@ -93,6 +97,8 @@
 
 ボトムプレートのピンソケットに5ピンヘッダを立てます。短い方を差しました。  
 ![](img/IMG_2851.jpeg) 
+後期型の場合は画像のピンを開けて差し込んでください。違っているとネジ穴が合わないので確認してから半田付けしてください。
+![](img/IMG_4163.jpeg) 
 
 ジョイスティック基板をスペーサー（細）（長）の上にのせ、スペーサー（太）（長）でボトムプレートに固定します。  
 ![](img/IMG_2852.jpeg) 
@@ -151,7 +157,8 @@ USBケーブルを抜いてください。はんだ付けの作業は通電し�
 ![](img/IMG_3002.jpeg) 
 こちらのファームウェアを書き込んでください。XIAO RP2040のBのスイッチを押す代わりに、XIAO RP2040に一番近いキーを押しながらUSBケーブルを繋ぐことでRPI-RP2のドライブを出すことが出来ます。  
 - [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_stick.uf2)
-  
+- 後期型向け [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.8/tarohayashi_kombucha_stick_stick.uf2)
+
 ## カスタマイズ
 LEDを消したい時は親指クラスタ（最下段）の奥のキーを押しながらジョイスティックを押し込んでください。  
 ![](img/IMG_3002E.jpg) 
@@ -179,6 +186,7 @@ LAYOUTSから見た目の左右を変更することができます。
 ### その他の利用方法
 ジョイスティックでマウスカーソルを動かすことも可能で、その場合はこちらのファイルをダウンロードしてファームウェアを書き換えてください。 
 - [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
+- 後期型向け [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
 
 認識が不安定ですが、こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
 - [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_joypad.uf2)
@@ -204,6 +212,8 @@ meishi Trackball Moduleを基板から切り離してください。
   
 ジョイスティックの時と同様にピンヘッダを立てモジュール付属のねじを使って基板の位置を決めたらはんだ付けします。  
 ![](img/IMG_2895.jpeg)  
+後期型の場合は画像のピンを開けて差し込んでください。違っているとネジ穴が合わないので確認してから半田付けしてください。
+![](img/IMG_4175.jpeg)  
 はんだ付けをしたらねじを一度はずしてモジュール基板を取り外し、センサーの保護フィルムをはがしてレンズとボールケースを取り付けます。  
 ![](img/IMG_2899.jpg)  
 ピンヘッダーのない側にスペーサー（細）（短）をねじで止めます。  
@@ -234,7 +244,9 @@ tarohayashi_kombucha_sitck_joypad.uf2:スティックの方向の設定が保存
 tarohayashi_kombucha_ball_via.uf2:カーソルの方向、速度の設定が保存されるようにしました  
 - テスト用 [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_default.uf2)
 - スティックにキー割り当て [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_stick.uf2)
+- スティックにキー割り当て（後期型向け） [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.8/tarohayashi_kombucha_stick_stick.uf2)
 - スティックにマウスカーソル [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
+- スティックにマウスカーソル（後期型向け） [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
 - ジョイパッド[tarohayashi_kombucha_sitck_joypad.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_joypad.uf2)
 - トラックボール [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_ball_via.uf2)
 
