@@ -229,14 +229,13 @@ meishi Trackball Moduleを基板から切り離してください。
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/kombucha
 
 ### ファームウェアまとめ
-※5/9  
-tarohayashi_kombucha_stick_cursor.uf2:カーソル用のファームウェアを一つにまとめました  
-tarohayashi_kombucha_sitck_joypad.uf2:スティックの方向の設定が保存されるようにしました  
-tarohayashi_kombucha_ball_via.uf2:カーソルの方向、速度の設定が保存されるようにしました  
+※5/21 後期版向けのファームウェアを追加しました。
 - テスト用 [tarohayashi_kombucha_stick_default.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_default.uf2)
 - スティックにキー割り当て [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_stick.uf2)
+- スティックにキー割り当て（後期型向け） [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.8/tarohayashi_kombucha_stick_stick.uf2)
 - スティックにマウスカーソル [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
-- ジョイパッド[tarohayashi_kombucha_sitck_joypad.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_joypad.uf2)
+- スティックにマウスカーソル（後期型向け） [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
+- ジョイパッド[tarohayashi_kombucha_sitck_joypad.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.8/tarohayashi_kombucha_stick_joypad.uf2)
 - トラックボール [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_ball_via.uf2)
 
 ### VIA用JSON
