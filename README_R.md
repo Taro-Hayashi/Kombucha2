@@ -186,7 +186,7 @@ LAYOUTSから見た目の左右を変更することができます。
 ### その他の利用方法
 ジョイスティックでマウスカーソルを動かすことも可能で、その場合はこちらのファイルをダウンロードしてファームウェアを書き換えてください。 
 - [tarohayashi_kombucha_stick_cursor_left.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
-- 後期型向け [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
+- 後期型向け [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.8/tarohayashi_kombucha_stick_cursor.uf2)
 
 認識が不安定ですが、こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
 - [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_joypad.uf2)
@@ -246,7 +246,7 @@ tarohayashi_kombucha_ball_via.uf2:カーソルの方向、速度の設定が保�
 - スティックにキー割り当て [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_stick.uf2)
 - スティックにキー割り当て（後期型向け） [tarohayashi_kombucha_stick_stick.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.8/tarohayashi_kombucha_stick_stick.uf2)
 - スティックにマウスカーソル [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
-- スティックにマウスカーソル（後期型向け） [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_cursor.uf2)
+- スティックにマウスカーソル（後期型向け） [tarohayashi_kombucha_stick_cursor.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.8/tarohayashi_kombucha_stick_cursor.uf2)
 - ジョイパッド[tarohayashi_kombucha_sitck_joypad.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_joypad.uf2)
 - トラックボール [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_ball_via.uf2)
 
