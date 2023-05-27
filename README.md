@@ -201,6 +201,7 @@ LAYOUTSから見た目の左右を変更することができます。
 |X軸反転||CUSTOM(65)|
 |Y軸反転||CUSTOM(66)|
 |XY逆転|方向変更|CUSTOM(67)|
+
 SPECIALタブのAnyで割り当てることができます。
   
 #### ジョイスティックの補正
@@ -249,6 +250,7 @@ meishi Trackball Moduleを基板から切り離してください。
 |CPI増|CUSTOM(66)|
 |角度増|CUSTOM(67)|
 |角度減|CUSTOM(67)|
+
 SPECIALタブのAnyで割り当てることができます。
 
 
