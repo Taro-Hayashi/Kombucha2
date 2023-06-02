@@ -191,7 +191,7 @@ LAYOUTSから見た目の左右を変更することができます。
 認識が不安定ですが、こちらのファームウェアを書き込むことでKombuchaをゲームパッドとして認識させることもできます。
 - [tarohayashi_kombucha_sitck_joypad_fix.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_stick_joypad.uf2)
 
-親指クラスタの真ん中のキーを長押しでカーソル/ジョイパッドの方向を変更できます。
+標準では親指クラスタの真ん中のキーを長押しでカーソル/ジョイパッドの方向を変更できます。
 ![](img/IMG_30022.jpg)  
 
 |機能（カーソル）|機能（パッド）|キーコード|
@@ -240,7 +240,7 @@ meishi Trackball Moduleを基板から切り離してください。
 - [tarohayashi_kombucha_ball_via.uf2](https://github.com/Taro-Hayashi/Kombucha2/releases/download/0.20.7/tarohayashi_kombucha_ball_via.uf2)
 
 ### トラックボールの調整
-親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。その下のキーを押すとマウスカーソルの上下左右の十字方向と10°の微調整が可能です。  
+標準では親指クラスタの真ん中のキーを押しながらボールの左右のキーを押すとセンサーの感度（CPI）を増減できます。その下のキーを押すとマウスカーソルの上下左右の十字方向と10°の微調整が可能です。  
 ![](img/IMG_3106E.jpg)
 |機能|キーコード|
 |-|-|
