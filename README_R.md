@@ -201,6 +201,8 @@ LAYOUTSから見た目の左右を変更することができます。
 |XY逆転|方向変更|CUSTOM(67)|
 
 SPECIALタブのAnyで割り当てることができます。
+![](img/any1.png)
+![](img/any2.png) 
   
 #### ジョイスティックの補正
 #### ジョイスティックの補正
@@ -248,7 +250,8 @@ meishi Trackball Moduleを基板から切り離してください。
 |角度減|CUSTOM(67)|
 
 SPECIALタブのAnyで割り当てることができます。
-
+![](img/any1.png)
+![](img/any2.png) 
 
 ## その他
 ### ファームウェアのフォルダ
